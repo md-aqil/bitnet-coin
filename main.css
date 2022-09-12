@@ -17216,3 +17216,19 @@ body.header_style_8 .header_side {
 .elements_in_row_1 .stm-header__element {
   width: 100%;
 }
+
+.vc_custom_1516625042275 {
+  margin-top: 0px !important;
+  background-image: url(./img/ape2.png) !important;
+  background-position:center;
+  background-repeat: no-repeat !important;
+  background-size: contain;
+}
+.vc_custom_1516603894830 {
+  margin-left: 60px !important;
+  padding-left: 40px !important;
+  background-image: url(./img/ape1.png) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain;
+}
